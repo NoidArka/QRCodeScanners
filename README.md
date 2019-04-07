@@ -1,4 +1,3 @@
 # QRCodeScanners
-QR Code Authenticator (only on correct QR image will grant access)
-QR VCard Reader (read name and phone number and send whatsapp message)
-Package Identification using QR Code
+Detect code and grant access, scans a QR and matches with a key phrase
+Box Identification scans the QR on a box and shows the contents inside
